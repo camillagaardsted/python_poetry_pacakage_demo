@@ -12,6 +12,7 @@ poetry new mypackage-demo
 # add a version file and some custom files 
 # import the files in __init__.py
 
+https://python-poetry.org/docs/cli/#version
 # increment minor version number for the project with
 poetry version minor
 
